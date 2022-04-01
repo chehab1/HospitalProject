@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D5D8238-A0BE-420A-B352-35D873DCC4BC}"
+	ProjectSection(SolutionItems) = preProject
+		HOSPITAL_PROJECT\AddMemberForm.cs = HOSPITAL_PROJECT\AddMemberForm.cs
+		HOSPITAL_PROJECT\AddMemberForm.Designer.cs = HOSPITAL_PROJECT\AddMemberForm.Designer.cs
+		HOSPITAL_PROJECT\AddMemberForm.resx = HOSPITAL_PROJECT\AddMemberForm.resx
+		HOSPITAL_PROJECT\App.config = HOSPITAL_PROJECT\App.config
+		HOSPITAL_PROJECT\Doctor.cs = HOSPITAL_PROJECT\Doctor.cs
+		HOSPITAL_PROJECT\Final_Project.csproj = HOSPITAL_PROJECT\Final_Project.csproj
+		HOSPITAL_PROJECT\Final_Project.csproj.user = HOSPITAL_PROJECT\Final_Project.csproj.user
+		HOSPITAL_PROJECT\Final_Project_TemporaryKey.pfx = HOSPITAL_PROJECT\Final_Project_TemporaryKey.pfx
+		HOSPITAL_PROJECT\Forgetpasswordform.cs = HOSPITAL_PROJECT\Forgetpasswordform.cs
+		HOSPITAL_PROJECT\Forgetpasswordform.Designer.cs = HOSPITAL_PROJECT\Forgetpasswordform.Designer.cs
+		HOSPITAL_PROJECT\Forgetpasswordform.resx = HOSPITAL_PROJECT\Forgetpasswordform.resx
+		HOSPITAL_PROJECT\FullTimeDoctorForn.cs = HOSPITAL_PROJECT\FullTimeDoctorForn.cs
+		HOSPITAL_PROJECT\FullTimeDoctorForn.Designer.cs = HOSPITAL_PROJECT\FullTimeDoctorForn.Designer.cs
+		HOSPITAL_PROJECT\FullTimeDoctorForn.resx = HOSPITAL_PROJECT\FullTimeDoctorForn.resx
+		HOSPITAL_PROJECT\HelloForm.cs = HOSPITAL_PROJECT\HelloForm.cs
+		HOSPITAL_PROJECT\HelloForm.Designer.cs = HOSPITAL_PROJECT\HelloForm.Designer.cs
+		HOSPITAL_PROJECT\HelloForm.resx = HOSPITAL_PROJECT\HelloForm.resx
+		HOSPITAL_PROJECT\IncorrectMail.cs = HOSPITAL_PROJECT\IncorrectMail.cs
+		HOSPITAL_PROJECT\InvalidEmail.cs = HOSPITAL_PROJECT\InvalidEmail.cs
+		HOSPITAL_PROJECT\ModeratorForm.cs = HOSPITAL_PROJECT\ModeratorForm.cs
+		HOSPITAL_PROJECT\ModeratorForm.Designer.cs = HOSPITAL_PROJECT\ModeratorForm.Designer.cs
+		HOSPITAL_PROJECT\ModeratorForm.resx = HOSPITAL_PROJECT\ModeratorForm.resx
+		HOSPITAL_PROJECT\Nurse.cs = HOSPITAL_PROJECT\Nurse.cs
+		HOSPITAL_PROJECT\NurseForm.cs = HOSPITAL_PROJECT\NurseForm.cs
+		HOSPITAL_PROJECT\NurseForm.Designer.cs = HOSPITAL_PROJECT\NurseForm.Designer.cs
+		HOSPITAL_PROJECT\NurseForm.resx = HOSPITAL_PROJECT\NurseForm.resx
+		HOSPITAL_PROJECT\packages.config = HOSPITAL_PROJECT\packages.config
+		HOSPITAL_PROJECT\PartTimeDoctor.cs = HOSPITAL_PROJECT\PartTimeDoctor.cs
+		HOSPITAL_PROJECT\PartTimeDoctor.Designer.cs = HOSPITAL_PROJECT\PartTimeDoctor.Designer.cs
+		HOSPITAL_PROJECT\PartTimeDoctor.resx = HOSPITAL_PROJECT\PartTimeDoctor.resx
+		HOSPITAL_PROJECT\PatientData.cs = HOSPITAL_PROJECT\PatientData.cs
+		HOSPITAL_PROJECT\PatientData.Designer.cs = HOSPITAL_PROJECT\PatientData.Designer.cs
+		HOSPITAL_PROJECT\PatientData.resx = HOSPITAL_PROJECT\PatientData.resx
+		HOSPITAL_PROJECT\Program.cs = HOSPITAL_PROJECT\Program.cs
+		HOSPITAL_PROJECT\projtestDataSet.Designer.cs = HOSPITAL_PROJECT\projtestDataSet.Designer.cs
+		HOSPITAL_PROJECT\projtestDataSet.xsc = HOSPITAL_PROJECT\projtestDataSet.xsc
+		HOSPITAL_PROJECT\projtestDataSet.xsd = HOSPITAL_PROJECT\projtestDataSet.xsd
+		HOSPITAL_PROJECT\projtestDataSet.xss = HOSPITAL_PROJECT\projtestDataSet.xss
+		HOSPITAL_PROJECT\RemoveStaffForm.cs = HOSPITAL_PROJECT\RemoveStaffForm.cs
+		HOSPITAL_PROJECT\RemoveStaffForm.Designer.cs = HOSPITAL_PROJECT\RemoveStaffForm.Designer.cs
+		HOSPITAL_PROJECT\RemoveStaffForm.resx = HOSPITAL_PROJECT\RemoveStaffForm.resx
+		HOSPITAL_PROJECT\Staff.cs = HOSPITAL_PROJECT\Staff.cs
+		HOSPITAL_PROJECT\Surgery.cs = HOSPITAL_PROJECT\Surgery.cs
+		HOSPITAL_PROJECT\SurgeryForm.cs = HOSPITAL_PROJECT\SurgeryForm.cs
+		HOSPITAL_PROJECT\SurgeryForm.Designer.cs = HOSPITAL_PROJECT\SurgeryForm.Designer.cs
+		HOSPITAL_PROJECT\SurgeryForm.resx = HOSPITAL_PROJECT\SurgeryForm.resx
+		HOSPITAL_PROJECT\Tech.cs = HOSPITAL_PROJECT\Tech.cs
+		HOSPITAL_PROJECT\TechForm.cs = HOSPITAL_PROJECT\TechForm.cs
+		HOSPITAL_PROJECT\TechForm.Designer.cs = HOSPITAL_PROJECT\TechForm.Designer.cs
+		HOSPITAL_PROJECT\TechForm.resx = HOSPITAL_PROJECT\TechForm.resx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Project", "HOSPITAL_PROJECT\Final_Project.csproj", "{1CB470F2-D6F9-4047-B3F8-10DEA813AC35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB470F2-D6F9-4047-B3F8-10DEA813AC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB470F2-D6F9-4047-B3F8-10DEA813AC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB470F2-D6F9-4047-B3F8-10DEA813AC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB470F2-D6F9-4047-B3F8-10DEA813AC35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF93AFD5-0FD1-42B3-A09E-C29C11D3DC8C}
+	EndGlobalSection
+EndGlobal
