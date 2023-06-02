@@ -1,2 +1,2 @@
 # HospitalProject
-a windows app for a hospital
+A windows app for a hospital
